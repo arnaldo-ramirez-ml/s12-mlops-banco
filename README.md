@@ -15,19 +15,19 @@ Este repositorio es el **ambiente de producción** de la Sesión 12. El modelo s
 
 ---
 
-## Antes de la clase (cada alumno, ≈ 10 min)
+## Al inicio de la clase (cada alumno, ≈ 10 min)
 
 1. **Cuenta de GitHub.** Si es estudiante, active GitHub Education (más horas gratuitas de Codespaces).
 2. **Crear su repositorio.** En esta página: botón verde **Use this template** → *Create a new repository*
    → nombre `s12-mlops-<su-apellido>` → **Public** → *Create repository*.
 3. **Tiempo de inactividad.** En github.com/settings/codespaces → *Default idle timeout* → **120 minutos** (por
    defecto son 30 y el Codespace se apagaría durante la clase).
-4. **Token de Kaggle en Colab.** En kaggle.com → *Settings* → sección **API** → genere un token. En Colab: panel 🔑
+4. **Token de Kaggle en Colab.** En kaggle.com → *Settings* → sección **API** → genere un token. En Colab: panel 
    *Secrets* → nombre `KAGGLE_API_TOKEN` → active *Notebook access*.
 
 ---
 
-## En clase: del laboratorio a producción
+## Durante la práctica: del laboratorio a producción
 
 ### 1. Subir el modelo (arrastrar y soltar)
 
